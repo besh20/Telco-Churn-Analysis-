@@ -1,4 +1,4 @@
-# Telco Customer Retention & Risk Command Center-
+# Telco Customer Retention & Risk
 AI-Driven Insights and Predictive Strategy For an IBM Sample Dataset
 
 link to the dataset https://www.kaggle.com/datasets/blastchar/telco-customer-churn
