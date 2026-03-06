@@ -40,7 +40,7 @@ Pathways to Churn: A Decomposition Tree allowing stakeholders to drill down into
 
 Searchable Risk Table: A marketing-ready tool with search functionality and "Top N" sorting to prioritize high-value at-risk accounts.
 
-How to Use This Project
+## How to Use This Project
 SQL Folder: Contains the cleanup.sql script to transform raw CSV data.
 
 PBIX Folder: Contains the Power BI dashboard file.
